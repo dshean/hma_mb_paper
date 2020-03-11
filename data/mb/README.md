@@ -7,9 +7,10 @@ Please see script used to generate for more detail: https://github.com/dshean/hm
 Variable names written to csv: https://github.com/dshean/hma_mb_paper/blob/master/scripts/mb_parallel.py#L1247
 
 ## Columns
-The first line of the csv contains a header:  `RGIId,x,y,z_med,z_min,z_max,z_slope,z_aspect,dhdt_ma,dhdt_ma_sigma,mb_mwea,mb_mwea_sigma,area_m2,mb_m3wea,mb_m3wea_sigma,t1,t2,dt,valid_area_perc,H_m,debris_m,perc_debris,perc_pond,perc_clean,vm_ma`
+The first line of the csv contains a header:  
+`RGIId,x,y,z_med,z_min,z_max,z_slope,z_aspect,dhdt_ma,dhdt_ma_sigma,mb_mwea,mb_mwea_sigma,area_m2,mb_m3wea,mb_m3wea_sigma,t1,t2,dt,valid_area_perc,H_m,debris_m,perc_debris,perc_pond,perc_clean,vm_ma`
 
-Sample row (Ngozumpa Glacier, Nepal):
+Sample row (Ngozumpa Glacier, Nepal):  
 `15.03474,159420.734,-893584.333,5492.891,4903.261,7219.088,13.396,181.068,-0.552,0.232,-0.469,0.201,12919247.330,-6064497.893,2653695.223,2000.412,2018.412,18.000,99.968,94.255,0.281,42.958,0.719,56.323,6.321`
 
 ### Standard parameters
