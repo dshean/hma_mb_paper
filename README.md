@@ -6,3 +6,5 @@ Data, notebooks, scripts and notes for Shean et al. (2020) paper on geodetic gla
 https://www.frontiersin.org/articles/10.3389/feart.2019.00363/
 
 ASTER DEM processing scripts by Paul Montesano are here: https://github.com/pahbs/aster_dem
+
+Corresponding ASTER+WV/GE maps of dh/dt for the 2000-2018 period are archived on Zenodo: https://zenodo.org/record/3872696
