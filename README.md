@@ -16,4 +16,4 @@ WorldView/GeoEye DEMs are available from NSIDC:
 
 ASTER DEM processing scripts by Paul Montesano (@pahbs) are here: https://github.com/pahbs/aster_dem
 
-Corresponding Zenodo data archive for ASTER+WV/GE maps of dh/dt for the 2000-2018 period: http://doi.org/10.5281/zenodo.3872696
+Zenodo data archive for ASTER+WV/GE maps of dh/dt for the 2000-2018 period: http://doi.org/10.5281/zenodo.3872696
