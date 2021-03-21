@@ -7,6 +7,8 @@ Data, notebooks, scripts and notes for Shean et al. (2020) paper on geodetic gla
 
 Link to open-access journal article: https://www.frontiersin.org/articles/10.3389/feart.2019.00363/
 
+[Glacier mass balance data for RGI polygons](data/mb/README.md)
+
 WorldView/GeoEye DEMs are available from NSIDC:
 * High Mountain Asia 8-meter DEMs Derived from Along-track Optical Imagery, Version 1: https://doi.org/10.5067/GSACB044M4PK
 * High Mountain Asia 8-meter DEMs Derived from Cross-track Optical Imagery, Version 1: https://doi.org/10.5067/0MCWJJH5ABYO
