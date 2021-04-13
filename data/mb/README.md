@@ -17,8 +17,8 @@ Sample row (Ngozumpa Glacier, Nepal):
 |Parameter|Description|Units|Example|
 |---|---|---|---|
 |RGIId|RGI glacier polygon ID|15.03474| 
-|x|glacier polygon centroid x-coordinate in custom Albers-Equal-Area coordinate system. See text for details, PROJ4 string `'+proj=aea +lat_1=36 +lat_2=49 +lat_0=43 +lon_0=-115 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs '`)|meters|159420.734| 
-|y|glacier polygon centroid y-coordinate in custom Albers-Equal-Area coordinate system. See text for details, PROJ4 string `'+proj=aea +lat_1=36 +lat_2=49 +lat_0=43 +lon_0=-115 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs '`)|meters|-893584.333| 
+|x|glacier polygon centroid x-coordinate in custom Albers-Equal-Area coordinate system. See text for details, PROJ4 string `'+proj=aea +lat_1=25 +lat_2=47 +lat_0=36 +lon_0=85 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs'`)|meters|159420.734| 
+|y|glacier polygon centroid y-coordinate in custom Albers-Equal-Area coordinate system. See text for details, PROJ4 string `'+proj=aea +lat_1=25 +lat_2=47 +lat_0=36 +lon_0=85 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs'`)|meters|-893584.333| 
 |z_med|median glacier elevation from ASTER/WV DEM composite|meters above WGS84 ellipsoid|5492.891| 
 |z_min|minimum glacier elevation from ASTER/WV DEM composite|meters above WGS84 ellipsoid|4903.261| 
 |z_max|maximum glacier elevation from ASTER/WV DEM composite|meters above WGS84 ellipsoid|7219.088| 
