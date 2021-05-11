@@ -8,9 +8,9 @@ Data, notebooks, scripts and notes for Shean et al. (2020) paper on geodetic gla
 Open-access journal article: https://www.frontiersin.org/articles/10.3389/feart.2019.00363/
 
 ### Quick links for data:
-[Glacier mass balance data for RGI polygons](data/mb/README.md)
+[Table (csv) of glacier mass balance data for RGI polygons](data/mb/README.md)
 
-[Raster elevation change (dh/dt, 30-m grid) from ASTER+WV/GE DEMs for the 2000-2018 period](http://doi.org/10.5281/zenodo.3872696)
+[Raster (geotiff, 30-m grid) elevation change (dh/dt) from ASTER+WV/GE DEMs for the 2000-2018 period](http://doi.org/10.5281/zenodo.3872696)
 
 WorldView/GeoEye DEMs archived with NSIDC:
 * High Mountain Asia 8-meter DEMs Derived from Along-track Optical Imagery, Version 1: https://doi.org/10.5067/GSACB044M4PK
